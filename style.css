@@ -1,0 +1,13 @@
+.tulisan1 {
+  font-family:: 'Brush Script MT', cursive;
+  font-size: 28px;
+}
+.tulisan2 {
+  font-size: 28px;
+  font-family:'Brush Script MT', cursive;
+  color: rgb(229, 255, 0);
+}
+.tulisan3 {
+  font-size: 32px;
+  color: rgb(229, 255, 0);
+}
